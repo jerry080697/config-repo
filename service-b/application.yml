@@ -1,5 +1,6 @@
 service:
   name: "Service B - Production Environment"
+
 logging:
   level:
-  root: WARN
+    root: WARN
