@@ -3,4 +3,4 @@ service:
 
 logging:
   level:
-    root: WARN
+    root: INFO
